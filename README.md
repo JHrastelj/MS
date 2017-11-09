@@ -1,2 +1,2 @@
 # MS
-PhD
+PhD CSF project
